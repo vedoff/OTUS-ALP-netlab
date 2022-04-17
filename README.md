@@ -1,8 +1,8 @@
 # Сетевая лаборатория.
 Дано
 
-https://github.com/erlong15/otus-linux/tree/network
-(ветка network)
+https://github.com/erlong15/otus-linux/tree/network \
+(ветка network) \
 Vagrantfile с начальным построением сети
 
     inetRouter
@@ -25,7 +25,7 @@ Office1 ---\ \
              ----> Central --IRouter --> internet \
 Office2----/
 
-    Итого должны получится следующие сервера
+   ## Итого должны получится следующие сервера
     inetRouter
     centralRouter
     office1Router
