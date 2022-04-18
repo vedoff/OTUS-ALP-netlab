@@ -69,7 +69,7 @@ Broadcast-адрес нужен для рассылки всем устройс�
 
 ![image](https://user-images.githubusercontent.com/92672435/163796065-cd9e36c6-d4e0-41cc-8f83-aec559769731.png)
 
-![image](https://user-images.githubusercontent.com/92672435/163784159-66625e55-66b7-4a21-a968-8571a95adb1d.png)
-
 # Схема сети на основании полученых данных
 ![](https://github.com/vedoff/netlab/blob/main/pict/Screenshot%20from%202022-04-18%2010-33-57.png)
+# На основании этой схемы мы получаем готовый список серверов
+![image](https://user-images.githubusercontent.com/92672435/163784159-66625e55-66b7-4a21-a968-8571a95adb1d.png)
