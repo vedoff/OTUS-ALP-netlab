@@ -33,3 +33,5 @@ Office2----/
     centralServer
     office1Server
     office2Server
+
+![image](https://user-images.githubusercontent.com/92672435/163784159-66625e55-66b7-4a21-a968-8571a95adb1d.png)
