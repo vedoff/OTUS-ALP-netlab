@@ -51,6 +51,8 @@
     src: debian/interface-server.j2
     dest: /etc/network/interfaces
   when: (ansible_hostname == "office1Server")
+  notify: 
+    - restart networking
 
           ### ==================== ### Конфигурирование Офис № 2 ### ======================= ###
 
