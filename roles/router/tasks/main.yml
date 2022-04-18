@@ -11,6 +11,6 @@
 - name: Import add-dns-routers-all.yml
   import_tasks: add-dns-routers-all.yml
 
-#   ## Подключаем файл для конфигурирования обратых маршрутов и dns
-# - name: Import install-packages.yml
-#   import_tasks: install-packages.yml
+  ## Подключаем файл для установки пакетов
+- name: Import install-packages.yml
+  import_tasks: install-packages.yml
